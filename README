@@ -1,0 +1,1 @@
+SMS-CMD uses pyGoogleVoice to send and recieve sms messages, and parses commands from them.  It uses Beautiful Soup to scrape the message contents.  It also uses Beautiful Soup to scrape driving direction from google maps.  It is meant to be modular so that commands and functions can be easily added.
